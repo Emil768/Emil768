@@ -1,15 +1,10 @@
 <div align="center">
-<div id="header" >
-  <img src="https://media1.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif?cid=ecf05e472ytvdf5ku0bfcwlomoqv67wrmwpyxb38ucarmrpk&rid=giphy.gif&ct=s"  width="150" height="150"/>
-</div>
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=EmilMurahas228&style=flat-square&color=blue" alt=""/>
-</div>
-  <h1>
+  <img src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300" alt=""/>
+   <h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=600&height=140&lines=Hey+there+%F0%9F%96%96" alt="Typing SVG" /></a>
   </h1>
-  <div>
-  <img src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300" alt=""/>
 </div>
 </div>
 
