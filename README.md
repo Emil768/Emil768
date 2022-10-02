@@ -1,6 +1,6 @@
 <div align="center">
 <div id="header" >
-  <img src="https://media1.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif?cid=ecf05e472ytvdf5ku0bfcwlomoqv67wrmwpyxb38ucarmrpk&rid=giphy.gif&ct=s"/>
+  <img src="https://media1.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif?cid=ecf05e472ytvdf5ku0bfcwlomoqv67wrmwpyxb38ucarmrpk&rid=giphy.gif&ct=s"  width="100" height="100"/>
 </div>
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=EmilMurahas228&style=flat-square&color=blue" alt=""/>
