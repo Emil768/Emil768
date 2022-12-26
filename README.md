@@ -1,10 +1,12 @@
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B" alt="Typing SVG" /></a>
 <div id="badges">
-  <img src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300" alt=""/>
+  <img src="https://media4.giphy.com/media/Yr0iHieAwgmz2JPUT9/giphy.gif?cid=790b761149f7fc8edeb4d87f9f499a865b406e344efa77d0&rid=giphy.gif&ct=g" width="600" height="300" alt=""/>
   <div><img src="https://komarev.com/ghpvc/?username=EmilMurahas228&style=flat-square&color=blue" alt=""/></div>
 </div>
 </div>
+
+https://media4.giphy.com/media/Yr0iHieAwgmz2JPUT9/giphy.gif?cid=790b761149f7fc8edeb4d87f9f499a865b406e344efa77d0&rid=giphy.gif&ct=g
 
 ---
 
