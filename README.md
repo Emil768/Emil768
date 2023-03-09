@@ -37,6 +37,6 @@ I'm Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Emil768228&border_radius=15)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Emil768&border_radius=15)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emil768&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
